@@ -1,0 +1,22 @@
+{
+  "name": "ComponentC",
+  "version": "0.1.0",
+  "summary": "A short description of ComponentC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1442687881@qq.com/ComponentC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1442687881@qq.com": "1442687881@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1442687881@qq.com/ComponentC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ComponentC/Classes/**/*"
+}
